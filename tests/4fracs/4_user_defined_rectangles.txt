@@ -1,3 +1,0 @@
-dfnGen /home/hpham/apps/dfnWorks-Version2.0/tests/gen_4_user_rectangles.dat
-dfnFlow /home/hpham/apps/dfnWorks-Version2.0/tests/dfn_explicit.in
-dfnTrans /home/hpham/apps/dfnWorks-Version2.0/tests/PTDFN_control.dat

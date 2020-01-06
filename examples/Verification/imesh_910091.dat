@@ -468,7 +468,7 @@ EllByCoord_Input_File_Path: /home/jharrod/GitProjects/DFNGen/DFNC++Version/input
 userRectanglesOnOff: 1    //0 - User Rectangles off
                         //1 - User Rectangles on
                           
-UserRect_Input_File_Path: /projects/DFN/ms6/input/define_6fracs.dat
+UserRect_Input_File_Path: /home/hpham/apps/dfnWel/examples/Verification/define_6fracs.dat
 
 
 
