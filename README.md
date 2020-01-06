@@ -3,7 +3,7 @@ dfnWEL - A Method to Represent a Well in a Three-Dimensional Discrete Fracture N
 To use dfnWEL:
 
 1. Download the dfnWorks 2.0 from the LANL GitHub at https://github.com/lanl/dfnWorks 
-2. Overwrite all dfnWEL files to the origin dfnWorks 2.0 files
+2. Download all dfnWEL files and overwrite the origin dfnWorks 2.0 files
 3. Specifile the path to:
 	(1) LAGRIT for InitialParPositions.c, line 452 (e.g., lagritpath = '/home/hpham/apps/LAGRIT/lagrit_ulin3.2')
 	(2) the well paramter files *.wel at line 698, file /pydfnworks/pydfnworks/lagrit_scripts.py (will generalize this later).
