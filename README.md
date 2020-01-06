@@ -10,7 +10,7 @@ To use dfnWEL:
 4. Re-compile dfnWorks 2.0 code (go to folder pydfnworks and run python setup.py install).
 5. Re-compile DFNTrans if needed (go to folder ParticleTracking and type make from your terminal. Make sure you have a suitable compiler. For me, I am using module load gnu/4.9.4). 
 
-To run a test example:
+To run the test example in tests/4fracs:
 1. Go to examples/4fracs folder and run the script run.sh
 2. Change the paths for input files
 3. Specify the path to the DFN mesh input file inside 4fracs/gen_4_user_rectangles.dat, at line 424
